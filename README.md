@@ -1,6 +1,6 @@
 # TP6 — Interoperabilidad FHIR
 
-Trabajo Práctico N°6 de Informática Médica (16.22) — Bioingeniería, ITBA.
+Trabajo Práctico N°6 de Informática Médica (16.22) 
 
 Actividad 3: creación de recursos FHIR mediante Python, comunicándose con el servidor público HAPI FHIR.
 
